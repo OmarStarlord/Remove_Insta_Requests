@@ -21,7 +21,7 @@ The `remove_follow_requests.py` script is designed to automate the process of re
    git clone https://github.com/your-username/remove-follow-requests.git
 
 
-2. Download chromwebdriver 
+2. Download chromewebdriver 
 
     Latest Version will be available in https://getwebdriver.com/chromedriver#stable
 
